@@ -1,18 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0533,100:0a0a1a&height=180&section=header&text=GMB%20Reviews%20%E2%86%92%20Google%20Sheet&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Google%20My%20Business%20%E2%80%A2%20Make.com%20%E2%80%A2%20Google%20Sheets%20%E2%80%94%20Automated%20Review%20Logging%20%26%20Metrics&descAlignY=60&descSize=14&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0221,40:1a0533,100:0a0a1a&amp;height=180&amp;section=header&amp;text=GMB%20Reviews%20%E2%86%92%20Google%20Sheet&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Google%20My%20Business%20%E2%80%A2%20Make.com%20%E2%80%A2%20Google%20Sheets%20%E2%80%94%20Automated%20Review%20Logging%20%26%20Metrics&amp;descAlignY=60&amp;descSize=14&amp;animation=fadeIn" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Active%20%26%20Live-22c55e?style=for-the-badge&logo=circle&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Active%20%26%20Live-22c55e?style=for-the-badge&amp;logo=circle&amp;logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Source-Google%20My%20Business-EA4335?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Source-Google%20My%20Business-EA4335?style=for-the-badge&amp;logo=google&amp;logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Logic-Upsert%20%2B%20Routing-7c3aed?style=for-the-badge&logo=codeigniter&logoColor=white" />
+<img src="https://img.shields.io/badge/Logic-Upsert%20%2B%20Routing-7c3aed?style=for-the-badge&amp;logo=codeigniter&amp;logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Metrics-Weekly%20%26%20Monthly-f59e0b?style=for-the-badge&logo=googlesheets&logoColor=white" />
+<img src="https://img.shields.io/badge/Metrics-Weekly%20%26%20Monthly-f59e0b?style=for-the-badge&amp;logo=googlesheets&amp;logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Built%20With-Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+<img src="https://img.shields.io/badge/Built%20With-Make.com-6D00CC?style=for-the-badge&amp;logo=make&amp;logoColor=white" />
 
 </div>
 
@@ -501,4 +501,4 @@ Create a Data Store record per month:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:1a0533,100:0d0221&height=100&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a1a,50:1a0533,100:0d0221&amp;height=100&amp;section=footer&amp;animation=fadeIn" />
