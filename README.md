@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0221,40:1a0533,100:0a0a1a&amp;height=180&amp;section=header&amp;text=GMB%20Reviews%20%E2%86%92%20Google%20Sheet&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Google%20My%20Business%20%E2%80%A2%20Make.com%20%E2%80%A2%20Google%20Sheets%20%E2%80%94%20Automated%20Review%20Logging%20%26%20Metrics&amp;descAlignY=60&amp;descSize=14&amp;animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0221,40:1a0533,100:0a0a1a&amp;height=180&amp;section=header&amp;text=GMB%20Reviews%20%E2%86%92%20Google%20Sheet&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Google%20My%20Business%20%E2%80%A2%20Make.com%20%E2%80%A2%20Google%20Sheets%20%E2%80%94%20Automated%20Review%20Logging%20%2B%20Metrics&amp;descAlignY=60&amp;descSize=14&amp;animation=fadeIn" />
 
 <br/>
 
