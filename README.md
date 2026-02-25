@@ -49,15 +49,10 @@ When a new patient review is posted on Google, this system catches it, logs the 
 
 <br>
 
-<!-- ============================================== -->
-<!-- 💡 DRAG AND DROP YOUR WORKFLOW IMAGE HERE 👇 -->
-<!-- ============================================== -->
 
-
-
-<!-- ============================================== -->
 
 <br>
+<img width="1337" height="525" alt="Screenshot 2" src="https://github.com/user-attachments/assets/1a7d2fa1-330b-49bb-99c8-d385ae26f410" />
 
 </details>
 
